@@ -1,7 +1,9 @@
 ### Hi, I'm Aphakorn! 👋
 
 ## 🔗 Links
-[![My CV](https://img.shields.io/badge/My%20CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aphakorn-cv.netlify.app/)
+<!--
+[![My CV](https://img.shields.io/badge/My%20CV-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+-->
 [![leetcode](https://img.shields.io/badge/leetcode-333?style=for-the-badge&logo=leetcode&logoColor=#FFA116)](https://leetcode.com/aphakorn_a/)
 [![hackerrank](https://img.shields.io/badge/hackerrank-0E141E?style=for-the-badge&logo=hackerrank&logoColor=#00EA64)](https://www.hackerrank.com/profile/aphakorn_a)
 
