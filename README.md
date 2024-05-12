@@ -1,6 +1,6 @@
 # Hi, I'm Aphakorn! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and constantly learning new technologies.
+🐞Bugs are the stepping stones to greatness 🌟
 
 ## 🔗 Links
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aphakorn_a/)
@@ -18,9 +18,10 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and brainteasers!
 -->
-
+<!--
 ## 📊 GitHub Stats
 ![Aphakorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASonneP&show_icons=true&theme=radical)
+-->
 
 <!--
 ## 🏆 Top Skills
