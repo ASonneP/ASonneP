@@ -5,11 +5,15 @@
 ## 🔗 Links
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aphakorn_a/)
 [![HackerRank](https://img.shields.io/badge/hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aphakorn_a/)
+<!-- 
+<!-- image + link -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai)](https://leetcode.com/aphakorn_a)
+-->
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai)
 -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai)](https://leetcode.com/aphakorn_a)
+
 
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=ASonneP&color=orange)
