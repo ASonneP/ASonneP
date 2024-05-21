@@ -9,7 +9,7 @@
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai)
 -->
-[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai))](https://leetcode.com/aphakorn_a)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aphakorn_a?theme=dark&font=IBM%20Plex%20Sans%20Thai)](https://leetcode.com/aphakorn_a)
 
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=ASonneP&color=orange)
